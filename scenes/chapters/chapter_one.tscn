@@ -7798,14 +7798,14 @@ animations = [ {
 "name": "down",
 "speed": 5.0
 }, {
-"frames": [ ExtResource( 117 ), ExtResource( 99 ), ExtResource( 118 ), ExtResource( 102 ), ExtResource( 126 ), ExtResource( 113 ) ],
-"loop": true,
-"name": "toslime",
-"speed": 10.0
-}, {
 "frames": [ ExtResource( 120 ), ExtResource( 116 ), ExtResource( 119 ), ExtResource( 114 ) ],
 "loop": true,
 "name": "slime",
+"speed": 10.0
+}, {
+"frames": [ ExtResource( 117 ), ExtResource( 99 ), ExtResource( 118 ), ExtResource( 102 ), ExtResource( 126 ), ExtResource( 113 ) ],
+"loop": true,
+"name": "toslime",
 "speed": 10.0
 } ]
 
