@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a pile of snacks Malo brought.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "I don't touch it though.~ He never brings anything sweet.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png",
+      "voice": 0
+    }
+  }
+}

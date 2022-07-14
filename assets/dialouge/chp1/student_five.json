@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "zzz...",
+      "mode": 1,
+      "speaker": "Student",
+      "icon": "student_five.png",
+      "voice": 1
+    }
+  }
+}

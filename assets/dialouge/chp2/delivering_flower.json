@@ -1,0 +1,186 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Ey Malo!~ Long time no see man!",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "Who is that punk you've got with you.",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    },
+    "1": {
+      "dialouge": "Oh he's Klay,~ a classmate of mine.~\nKlay...~ this is Melantha.~\nShe can be a bit rude at times.",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "2": {
+      "dialouge": "She is a fan of that emo band you always listen to.~ Eldritch Blight was it?",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "3": {
+      "dialouge": "It's Eldritch White Malo!.",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    },
+    "4": {
+      "dialouge": "Anways...~\nDid you bring it.",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    },
+    "5": {
+      "dialouge": "Yeah I did.",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "Thanks a million!~ You're a real life saver man!",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    },
+    "1": {
+      "dialouge": "Well...~I've got to bounce!",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    },
+    "2": {
+      "dialouge": "I'll see you punks later.",
+      "mode": 1,
+      "speaker": "Melantha",
+      "icon": "melantha.png"
+    }
+  },
+  "3": {
+    "0": {
+      "dialouge": "You could have at least introduced yourself you know.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_judge.png"
+    },
+    "1": {
+      "dialouge": "Why?~ You did a perfectly good job introducing me.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "And you were the one that forced me to come.~\nWhat did you hand her anyways?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png"
+    },
+    "3": {
+      "dialouge": "Oh that!",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "4": {
+      "dialouge": "It was a flower.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "5": {
+      "dialouge": "A flower?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_confused.png"
+    },
+    "6": {
+      "dialouge": "Yeah!~\nMelantha is a garderner~ she collects rare flowers from different parts of the pillar.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "7": {
+      "dialouge": "...~\nI see.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png"
+    },
+    "8": {
+      "dialouge": "So...~\nAre we gonna leave now?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "9": {
+      "dialouge": "Leave?~\nWe just got here Klay!",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "10": {
+      "dialouge": "We can't just leave after coming all this way.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "11": {
+      "dialouge": "But the selection is tomorrow Malo!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "12": {
+      "dialouge": "That's exactly why we must enjoy ourselves now.~ It's not even noon yet.~ We have plenty of time.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "13": {
+      "dialouge": "Plus,~ wandering around the pillar alone is against the rules so it's not like you have a choice.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "14": {
+      "dialouge": "Sigh...~ Fine.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    }
+  },
+  "4": {
+    "0": {
+      "dialouge": "Cool isn't it?",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "These are two pieces of Twin Quartz.~\nThe light given off by one piece will always point to the other.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "2": {
+      "dialouge": "Very cool Malo.~ Can we go now?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png"
+    },
+    "3": {
+      "dialouge": "Alright alright...~ Learn to have a little fun okay.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_frown.png"
+    }
+  }
+}

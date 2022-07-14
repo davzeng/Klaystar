@@ -1,0 +1,115 @@
+[gd_scene load_steps=16 format=2]
+
+[ext_resource path="res://scenes/cutscene/dialouge_box.gd" type="Script" id=1]
+[ext_resource path="res://assets/fonts/PottaOne-Regular.ttf" type="DynamicFontData" id=2]
+[ext_resource path="res://assets/audio/sfx/speech/low_2.wav" type="AudioStream" id=3]
+[ext_resource path="res://assets/imgs/dialouge/box.png" type="Texture" id=4]
+[ext_resource path="res://assets/imgs/dialouge/name_box.png" type="Texture" id=5]
+[ext_resource path="res://assets/audio/sfx/speech/mid_1.wav" type="AudioStream" id=6]
+[ext_resource path="res://assets/audio/sfx/speech/mid_2.wav" type="AudioStream" id=7]
+[ext_resource path="res://assets/audio/sfx/speech/high_2.wav" type="AudioStream" id=8]
+[ext_resource path="res://assets/audio/sfx/speech/low_1.wav" type="AudioStream" id=9]
+[ext_resource path="res://assets/audio/sfx/speech/high_1.wav" type="AudioStream" id=10]
+[ext_resource path="res://assets/audio/sfx/speech/high_3.wav" type="AudioStream" id=11]
+[ext_resource path="res://assets/audio/sfx/speech/mid_3.wav" type="AudioStream" id=12]
+[ext_resource path="res://assets/audio/sfx/speech/low_3.wav" type="AudioStream" id=13]
+
+[sub_resource type="DynamicFont" id=1]
+size = 20
+font_data = ExtResource( 2 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 20
+font_data = ExtResource( 2 )
+
+[node name="DialougeBox" type="Container"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 384.0
+margin_top = 838.0
+margin_right = -384.0
+margin_bottom = -50.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="Icon" type="TextureRect" parent="."]
+margin_right = 1152.0
+margin_bottom = 191.0
+
+[node name="Name" type="TextureRect" parent="."]
+margin_right = 192.0
+margin_bottom = 48.0
+texture = ExtResource( 5 )
+
+[node name="NameText" type="RichTextLabel" parent="."]
+anchor_right = 0.035
+anchor_bottom = 0.209
+margin_right = -0.32
+margin_bottom = 0.0809975
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_fonts/normal_font = SubResource( 1 )
+bbcode_enabled = true
+scroll_active = false
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Dialouge" type="TextureRect" parent="."]
+margin_right = 1152.0
+margin_bottom = 191.0
+texture = ExtResource( 4 )
+expand = true
+
+[node name="DialougeText" type="RichTextLabel" parent="."]
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_fonts/normal_font = SubResource( 2 )
+bbcode_enabled = true
+visible_characters = 0
+percent_visible = 0.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Tween" type="Tween" parent="."]
+
+[node name="High1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 10 )
+
+[node name="High2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 8 )
+
+[node name="High3" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 11 )
+
+[node name="Mid1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 6 )
+
+[node name="Mid2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 7 )
+
+[node name="Mid3" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 12 )
+
+[node name="Low1" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 9 )
+
+[node name="Low2" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 3 )
+
+[node name="Low3" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 13 )
+
+[connection signal="tween_completed" from="Tween" to="." method="_on_Tween_tween_completed"]
+[connection signal="finished" from="High1" to="." method="_on_High1_finished"]
+[connection signal="finished" from="High2" to="." method="_on_High2_finished"]
+[connection signal="finished" from="High3" to="." method="_on_High3_finished"]
+[connection signal="finished" from="Mid1" to="." method="_on_Mid1_finished"]
+[connection signal="finished" from="Mid2" to="." method="_on_Mid2_finished"]
+[connection signal="finished" from="Mid3" to="." method="_on_Mid3_finished"]
+[connection signal="finished" from="Low1" to="." method="_on_Low1_finished"]
+[connection signal="finished" from="Low2" to="." method="_on_Low2_finished"]
+[connection signal="finished" from="Low3" to="." method="_on_Low3_finished"]

@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's locked.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    }
+  }
+}

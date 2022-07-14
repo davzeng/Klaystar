@@ -1,0 +1,32 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Ali?",
+      "mose": 0
+    },
+    "1": {
+      "dialouge": "Oh hey Klay! I didn't expect to see you here.",
+      "mose": 0
+    },
+    "2": {
+      "dialouge": "Well, I guess it's not fucking suprising. Since we never shared our plans for the selection.",
+      "mose": 0
+    },
+    "3": {
+      "dialouge": "We are technically competing against each other you know.",
+      "mose": 0
+    },
+    "4": {
+      "dialouge": "... Well... I'll see you later I guess.",
+      "mose": 0
+    },
+    "5": {
+      "dialouge": "Lets talk after we both pass the selection.",
+      "mose": 0
+    },
+    "6": {
+      "dialouge": "If we both pass the selection.",
+      "mose": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/rough_wall.png-8457b3c6a5974d482f046cd5e48ed15b.image"
+
+[deps]
+
+source_file="res://assets/imgs/miscs/rough_wall.png"
+dest_files=[ "res://.import/rough_wall.png-8457b3c6a5974d482f046cd5e48ed15b.image" ]
+
+[params]
+

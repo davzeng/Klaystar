@@ -1,0 +1,37 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "If I recall correctly,~ far far away...~ there exists a body of water stretching far beyond the eye can see.",
+      "mode": 3
+    },
+    "1": {
+      "dialouge": "It is said to be the origin of all life.~\nSaid to reach unimaginable depths.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "Though no one has seen it in person, it is theorized to be the origin of all life.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "A lone boy lay flat on a drifting piece of wood, looking towards the sky.~\nGazing from one endless abyss to another.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "I do not know how he got there and nor does it matter.~\nHe may as well have always been there.",
+      "mode": 3
+    },
+    "5": {
+      "dialouge": "He's following a star, beneath which he knows he'll find...~ something...",
+      "mode": 3
+    },
+    "6": {
+      "dialouge": "Sigh...~\nWhat am I doing.",
+      "mode": 3
+    },
+    "7": {
+      "dialouge": "I can't sleep.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  }
+}

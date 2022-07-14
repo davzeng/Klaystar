@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a series of novels chronicling the many great achievements and adventures of Vanguards across history.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "The Crossing of the Azur Archipelago, The Red Heart Incident and The Black Canyon Disaster.~ They're all there",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_happy.png",
+      "voice": 0
+    }
+  }
+}

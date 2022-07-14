@@ -1,0 +1,10 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "The selection is right around the corner.~ Crazy isn't it?",
+      "mode": 4,
+      "speaker": "Student",
+      "icon": "student_four.png"
+    }
+  }
+}

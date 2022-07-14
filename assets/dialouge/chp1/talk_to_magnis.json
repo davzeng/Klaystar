@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Go get some rest kid.~\nYou've got to be ready for the selection.",
+      "mode": 4,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    }
+  }
+}

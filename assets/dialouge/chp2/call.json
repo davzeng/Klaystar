@@ -1,0 +1,68 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Ring...~ Ring...",
+      "mode": 3
+    },
+    "1": {
+      "dialouge": "It's a call from mom.",
+      "mode": 0,
+      "speaker":  "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "Hello?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "3": {
+      "dialouge": "Hey, Klay!~ I'm just checking in on you.~\nThe selection is soon.~ Do you have everything prepared?",
+      "mode": 1,
+      "speaker": "Mom",
+      "icon": "parent.png"
+    },
+    "4": {
+      "dialouge": "Yes mom...~ You don't need to worry so much you know.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "5": {
+      "dialouge": "Oh don't be like that Klay!~\nIt has been a while since I last saw my future Vanguard.",
+      "mode": 1,
+      "speaker": "Mom",
+      "icon": "parent.png"
+    },
+    "6": {
+      "dialouge": "My passing is hardly garanteed mom.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_happy.png"
+    },
+    "7": {
+      "dialouge": "On don't be like that Klay! You'll do great.",
+      "mode": 1,
+      "speaker": "Mom",
+      "icon": "parent.png"
+    },
+    "8": {
+      "dialouge": "Anyways I have to go now.~\nAnother frost bloom season has just started.~ I have to get your dad somewhere safe.",
+      "mode": 1,
+      "speaker": "Mom",
+      "icon": "parent.png"
+    },
+    "9": {
+      "dialouge": "I'll talk to you more tommorrow okay.~\n Love you <3.",
+      "mode": 1,
+      "speaker": "Mom",
+      "icon": "parent.png"
+    },
+    "10": {
+      "dialouge": "Alright...~ love you.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_happy.png"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Did something happen.~\nYou look like you're in a bad mood.",
+      "mode": 4,
+      "speaker": "Malo",
+      "icon": "malo_frown.png",
+      "voice": 1
+    },
+    "1": {
+      "dialouge": "I got scolded by Sir Magnis.~ Again",
+      "mode": 5,
+      "speaker": "Klay",
+      "icon": "klay_frown.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Of course you did.",
+      "mode": 4,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png",
+      "voice": 1
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "You should clean your room someday you know.",
+      "mode": 5,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Why?~ It's just gonna get messy again anyways.",
+      "mode": 4,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png",
+      "voice": 1
+    }
+  }
+}

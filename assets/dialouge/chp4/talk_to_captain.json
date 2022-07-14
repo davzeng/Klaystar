@@ -1,0 +1,9 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Show us what you can do!",
+      "mode": 4,
+      "icon": "captain.png"
+    }
+  }
+}

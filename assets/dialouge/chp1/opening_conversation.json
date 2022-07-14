@@ -1,0 +1,104 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Far far away...~ there exists a body of water stretching far beyond the eye can see.",
+      "mode": 3,
+      "voice":  0
+    },
+    "1": {
+      "dialouge": "It is said to be the origin of all life.~ Said to reach unimaginable depths.",
+      "mode": 3,
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "And though no one has seen it in person it is theorized to blanket over half the world.",
+      "mode": 3,
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "A lone kid floats on a raft~ adrift in the endless water.",
+      "mode": 3,
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "Untill...~ he sees a shadow over the horizon.",
+      "mode": 3,
+      "voice": 0
+    },
+    "5": {
+      "dialouge": "....",
+      "mode": 3,
+      "voice": 0
+    },
+    "6": {
+      "dialouge": "And that's all I've got so far.",
+      "mode": 3,
+      "voice": 0
+    },
+    "7": {
+      "dialouge": "Seriously dude?~ That's it?",
+      "mode": 3,
+      "voice": 1
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "What do you mean that's it?~\nYou wanted to hear what I wrote didn't you.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "It's just that I thought you'd have written more by now.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_judge.png",
+      "voice": 1
+    },
+    "2": {
+      "dialouge": "Oh throw me a bone here Malo.~\nThis was your idea.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png",
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "Oh come on!~\nIt's not like I forced you to do this.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_frown.png",
+      "voice": 1
+    },
+    "4": {
+      "dialouge": "I suggested you do this to take your mind off the selection.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_frown.png",
+      "voice": 1
+    },
+    "5": {
+      "dialouge": "You should be thanking me.~ Jeez...",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_frown.png",
+      "voice": 1
+    },
+    "6": {
+      "dialouge": "Well it was nice hanging out.~ But I should be going back to the campus.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png",
+      "voice": 1
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "And you should take your leave soon as well.~ Magnis is going to be mad if you come back too late.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png",
+      "voice": 1
+    }
+  }
+}

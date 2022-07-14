@@ -1,0 +1,101 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "It appears to be a pamphlet someone posted here.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "After years of scientific research and development it has become overwhelming clear that the earth is round.",
+      "mode": 3,
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Despite this, those at the top hide the truth for their own nefarious ends.~\nAll the while, many others refuse open their eyes.",
+      "mode": 3,
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "Come join the Globe Earth Society and learn the truth!~\nMeet like minded individuals,~ engage in intellectual conversations,~ and hangout!",
+      "mode": 3,
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "Learn more at your local Globe Earth Convention!",
+      "mode": 3,
+      "voice": 0
+    },
+    "5": {
+      "dialouge": "-Globe Earth Society,~ we have members all across the pillar.",
+      "mode": 3,
+      "voice": 0
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "It appears to be some sort of advertisement.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Dear fellow globe earthers.~\nSpreading the truth can be a long and tedious experience!",
+      "mode": 3,
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "That's why we, at the Globe Earth Society, are now proudly announcing our new Globe Earth T-Shirts.",
+      "mode": 3,
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "For only $99.99 you can now spread the truth without the bothersome use of words!!!",
+      "mode": 3,
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "Visit our website at www.GlobeEarthSociety.flat to order your shirt before supplies run out!",
+      "mode": 3,
+      "voice": 0
+    },
+    "5": {
+      "dialouge": "-Globe Earth Society,~ we have members all across the pillar.",
+      "mode": 3,
+      "voice": 0
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "It appears to be an old page from a journal.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Sevac Eht Otni Dna Sdnal Lufecaep Eht Dessap Evah Ew",
+      "mode": 3,
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Rehtie Ereh Sgnieb Gnivil Yna Eb Ot Raeppa Tnseod Ereht",
+      "mode": 3,
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "Yks Eht Hcaer Ew Litnu Pu Llits Rehtruf Pu Daeh Llew",
+      "mode": 3,
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "It looks like a bunch of gibberish.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    }
+  }
+}

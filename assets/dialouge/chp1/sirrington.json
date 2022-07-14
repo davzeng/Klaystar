@@ -1,0 +1,53 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Why if it isn't Klay!~ You're a little far from the school you know.",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "It's not good to wander off like that...~ not good at all.",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    },
+    "2": {
+      "dialouge": "Places like these is where the lizard people make their base you know.",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    },
+    "3": {
+      "dialouge": "Spare me your conspiracy theories please.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png",
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "On my!~ As cold as ever I see.~\nWell no matter.",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    },
+    "5": {
+      "dialouge": "My compatriots and I have been hard at work recently.~ We have printed pamphlets spreading our message all across the pillar.",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    },
+    "6": {
+      "dialouge": "The truth will come to light as day follows night.~\nYou'll See!",
+      "mode": 1,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    }
+  }
+}

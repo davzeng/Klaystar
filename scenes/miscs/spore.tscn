@@ -1,0 +1,97 @@
+[gd_scene load_steps=35 format=2]
+
+[ext_resource path="res://assets/imgs/miscs/spore/idle_3.png" type="Texture" id=1]
+[ext_resource path="res://scenes/miscs/spore.gd" type="Script" id=2]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_4.png" type="Texture" id=3]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_5.png" type="Texture" id=4]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_2.png" type="Texture" id=5]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_6.png" type="Texture" id=6]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_1.png" type="Texture" id=7]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_7.png" type="Texture" id=8]
+[ext_resource path="res://assets/imgs/miscs/spore/idle_8.png" type="Texture" id=9]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_1.png" type="Texture" id=10]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_5.png" type="Texture" id=11]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_2.png" type="Texture" id=12]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_3.png" type="Texture" id=13]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_2.png" type="Texture" id=14]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_8.png" type="Texture" id=15]
+[ext_resource path="res://assets/imgs/miscs/spore/warn_4.png" type="Texture" id=16]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_1.png" type="Texture" id=17]
+[ext_resource path="res://assets/imgs/miscs/spore/warn_2.png" type="Texture" id=18]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_7.png" type="Texture" id=19]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_3.png" type="Texture" id=20]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_6.png" type="Texture" id=21]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_8.png" type="Texture" id=22]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_6.png" type="Texture" id=23]
+[ext_resource path="res://assets/imgs/miscs/spore/warn_1.png" type="Texture" id=24]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_4.png" type="Texture" id=25]
+[ext_resource path="res://assets/imgs/miscs/spore/warn_3.png" type="Texture" id=26]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_4.png" type="Texture" id=27]
+[ext_resource path="res://assets/imgs/miscs/spore/regen_5.png" type="Texture" id=28]
+[ext_resource path="res://assets/imgs/miscs/spore/explode_7.png" type="Texture" id=29]
+[ext_resource path="res://assets/audio/sfx/spore/spore_pop.wav" type="AudioStream" id=30]
+[ext_resource path="res://assets/audio/sfx/spore/spore_res.wav" type="AudioStream" id=31]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 30, 30 )
+
+[sub_resource type="CircleShape2D" id=2]
+radius = 224.0
+
+[sub_resource type="SpriteFrames" id=3]
+animations = [ {
+"frames": [ ExtResource( 7 ), ExtResource( 5 ), ExtResource( 1 ), ExtResource( 3 ), ExtResource( 4 ), ExtResource( 6 ), ExtResource( 8 ), ExtResource( 9 ) ],
+"loop": true,
+"name": "idle",
+"speed": 10.0
+}, {
+"frames": [ ExtResource( 17 ), ExtResource( 14 ), ExtResource( 20 ), ExtResource( 27 ), ExtResource( 28 ), ExtResource( 21 ), ExtResource( 19 ), ExtResource( 15 ) ],
+"loop": true,
+"name": "regen",
+"speed": 10.0
+}, {
+"frames": [ ExtResource( 24 ), ExtResource( 18 ), ExtResource( 26 ), ExtResource( 16 ) ],
+"loop": true,
+"name": "warn",
+"speed": 10.0
+}, {
+"frames": [ ExtResource( 10 ), ExtResource( 12 ), ExtResource( 13 ), ExtResource( 25 ), ExtResource( 11 ), ExtResource( 23 ), ExtResource( 29 ), ExtResource( 22 ) ],
+"loop": true,
+"name": "explode",
+"speed": 10.0
+} ]
+
+[node name="Spore" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="BoundDetect" type="Area2D" parent="."]
+position = Vector2( 224, 224 )
+collision_layer = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="BoundDetect"]
+shape = SubResource( 1 )
+
+[node name="Area" type="Area2D" parent="."]
+position = Vector2( 224, 224 )
+collision_layer = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area"]
+shape = SubResource( 2 )
+
+[node name="Sprite" type="AnimatedSprite" parent="."]
+pause_mode = 2
+frames = SubResource( 3 )
+animation = "idle"
+centered = false
+
+[node name="Center" type="Node2D" parent="."]
+position = Vector2( 224, 224 )
+
+[node name="Pop" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 30 )
+
+[node name="Res" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 31 )
+
+[connection signal="animation_finished" from="Sprite" to="." method="_on_Sprite_animation_finished"]
+[connection signal="frame_changed" from="Sprite" to="." method="_on_Sprite_frame_changed"]

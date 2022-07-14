@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a small console we play games on.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "It took nearly a year for us to save up enough money to buy this thing.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_happy.png",
+      "voice": 0
+    }
+  }
+}

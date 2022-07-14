@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "You really scared me you know.",
+      "mode": 4,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    }
+  }
+}

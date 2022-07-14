@@ -1,0 +1,44 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Sup guys!",
+      "mode": 0
+    },
+    "1": {
+      "dialouge": "I've got to say, it's nice seeing some familiar faces here.",
+      "mode": 0
+    },
+    "2": {
+      "dialouge": "Yeah, it really is.",
+      "mode": 0
+    },
+    "3": {
+      "dialouge": "I'd say I'm hard at work, accept that's lie.",
+      "mode": 0
+    },
+    "4": {
+      "dialouge": "The captain took one good look at me and instantly knew that I didn't stack up to the rest.",
+      "mode": 0
+    },
+    "5": {
+      "dialouge": "He halved my shard quota on the spot!",
+      "mode": 0
+    },
+    "6": {
+      "dialouge": "I would have appreciated that, if everything didn't start laughing at me.",
+      "mode": 0
+    },
+    "7": {
+      "dialouge": "I'm sorry to hear that.",
+      "mode": 0
+    },
+    "8": {
+      "dialouge": "Yeah.",
+      "mode": 0
+    },
+    "9": {
+      "dialouge": "Well, I'll stop wasting your time now. I'm sure you two have lots of work to do!",
+      "mode": 0
+    }
+  }
+}

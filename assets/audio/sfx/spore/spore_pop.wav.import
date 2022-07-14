@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/spore_pop.wav-a402ddb7ae42b1d41be67abdfd75772f.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/spore/spore_pop.wav"
+dest_files=[ "res://.import/spore_pop.wav-a402ddb7ae42b1d41be67abdfd75772f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

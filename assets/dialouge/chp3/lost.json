@@ -1,0 +1,129 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Klay...",
+      "mode": 1,
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "Yeah?",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "Which way are we suppose to go again?",
+      "mode": 1,
+      "icon": "malo_neutral.png"
+    },
+    "3": {
+      "dialouge": "Left I think?",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    },
+    "4": {
+      "dialouge": "You don't sound confident at all.",
+      "mode": 1,
+      "icon": "malo_neutral.png"
+    },
+    "5": {
+      "dialouge": "It's left!~ I'm sure of it.",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "...~ It's a dead end!",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "I thought you knew where to go.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "2": {
+      "dialouge": "I did okay! I just got a little confused.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "3": {
+      "dialouge": "Heh.~ What happened to taking this seriously.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "4": {
+      "dialouge": "I was serious! There was just alot to keep track of.~\nYou think I want to be late on the first day!",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "5": {
+      "dialouge": "Plus!~ You didn't known the way either.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "6": {
+      "dialouge": "Alright alright.~ I'm sorry. It's not your fault okay.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "7": {
+      "dialouge": "Maybe this is just due to the shifting.~\nEither way, we can still make it if we hurry.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "8": {
+      "dialouge": "Yeah...~Lets go.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "Hey wait!",
+      "mode": 3
+    }
+  },
+  "3": {
+    "0": {
+      "dialouge": "Thanks goodness I ran into somebody.~ I'm a little lost right now.",
+      "mode": 1,
+      "icon": "gigaia_high_kid.png"
+    },
+    "1": {
+      "dialouge": "I'm participating in the selection, trying to find the way to the top of the pillar.~\nDo you guys happen to know which way to go?",
+      "mode": 1,
+      "icon": "gigaia_high_kid.png"
+    },
+    "2": {
+      "dialouge": "...",
+      "mode": 0,
+      "icon": "klay_frown.png"
+    },
+    "3": {
+      "dialouge": "Yeah!~\nWe were just heading to the same place.~\nIt's to the left it think.",
+      "mode": 0,
+      "icon": "klay_happy.png"
+    },
+    "4": {
+      "dialouge": "Alright!~ Thanks man!",
+      "mode": 1,
+      "icon": "gigaia_high_kid.png"
+    },
+    "5": {
+      "dialouge": "Klay are you seriously going to-",
+      "mode": 1,
+      "icon": "malo_judge.png"
+    },
+    "6": {
+      "dialouge": "Anyways...~ it's starting to get late so we should all probably hurry.~\nSee ya!",
+      "mode": 0,
+      "icon": "klay_happy.png"
+    },
+    "7": {
+      "dialouge": "...~Yeah! See ya!",
+      "mode": 1,
+      "icon": "gigaia_high_kid.png"
+    }
+  }
+}

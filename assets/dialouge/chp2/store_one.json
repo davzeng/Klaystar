@@ -1,0 +1,36 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Why hello there!~\nWelcome to Crystal Jewelry.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_one.png"
+    },
+    "1": {
+      "dialouge": "We sell the rarest gems only found in the Crystal Jungle.~\nWanna take a look?",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_one.png"
+    },
+    "2": {
+      "dialouge": "I don't have money on me right now.~ Sorry.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "3": {
+      "dialouge": "Ah that can't be helped can it?~ Well if you want to buy any gems in the future you know where to go.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_one.png"
+    }
+  },
+  "loop": {
+    "0": {
+      "dialouge": "If you want to buy any gems in the future you know where to go.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_one.png"
+    }
+  }
+}

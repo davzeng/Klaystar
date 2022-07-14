@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a chess set me and Malo keep here.~\nI don't really like playing since Malo always wins.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    }
+  }
+}

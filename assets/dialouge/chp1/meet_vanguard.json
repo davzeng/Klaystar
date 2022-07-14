@@ -1,0 +1,127 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Hold on!~\nWhere those members of the Vanguard?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Wait!~\nHold up!~\nCan I have an autograph?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "Hey!~ Hold on!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "You're a member of the Vanguard right?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Can I have an autograph?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_excited.png",
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "Sorry kiddo~ but I don't do autographs.~\nIt's just not my thing.",
+      "mode": 1,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    },
+    "4": {
+      "dialouge": "Aww...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_sad.png",
+      "voice": 0
+    },
+    "5": {
+      "dialouge": "It's a shame that my partner isn't here.~ He would have tried to give you one even if you didn't ask.",
+      "mode": 1,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "Oi!~\nWhat's going on here.",
+      "mode": 1,
+      "speaker": "Captain",
+      "icon": "vanguard_one.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "You can't be here right now kid.",
+      "mode": 1,
+      "speaker": "Captain",
+      "icon": "vanguard_one.png",
+      "voice": 2
+    },
+    "2": {
+      "dialouge": "Huh...~ Why not?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_confused.png",
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "There has been an unexpected shift here.~\nNow scram!",
+      "mode": 1,
+      "speaker": "Captain",
+      "icon": "vanguard_one.png",
+      "voice": 2
+    },
+    "4": {
+      "dialouge": "Hey now,~ that's just straight up mean.~\nHe's just a kid.",
+      "mode": 1,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    },
+    "5": {
+      "dialouge": "Sorry about her,~ we are all quite busy right now,~ so you'll have to get that autograph another day.",
+      "mode": 1,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    },
+    "6": {
+      "dialouge": "Anyways...~ You should probably go now,~ she'll get mad if I let you stay any longer.",
+      "mode": 1,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    },
+    "7": {
+      "dialouge": "He's right you know.~\nNow scram already.",
+      "mode": 1,
+      "speaker": "Captain",
+      "icon": "vanguard_one.png",
+      "voice": 2
+    }
+  }
+}

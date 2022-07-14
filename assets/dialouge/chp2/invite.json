@@ -1,0 +1,64 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Yo Klay!~\nI was just looking for you",
+      "mode": 1,
+      "speaker":  "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "I need to deliver some stuff for a friend of mine.~\nYou wanna come with?",
+      "mode": 1,
+      "speaker":  "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "2": {
+      "dialouge": "You can do that on your own can you?",
+      "icon": "klay_neutral.png",
+      "speaker": "Klay",
+      "mode": 0
+    },
+    "3": {
+      "dialouge": "Magnis said that I'm not allowed to go off campus alone.~\nAnd it's not like you have anything else to do.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_frown.png"
+    },
+    "4": {
+      "dialouge": "So why not help me out?~ It'll be fun!",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "5": {
+      "dialouge": "My friends lives all the way in Gaia so it might be a bit of a trek.~\nBut I promise we'll get there and back before five.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "6": {
+      "dialouge": "Consider it some last minute preparation of the selection.",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "7": {
+      "dialouge": "Sigh...~ Alright.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "8": {
+      "dialouge": "Awesome!~ Lets go!",
+      "mode": 1,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "9": {
+      "dialouge": "Wait!~ We are leaving now!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    }
+  }
+}

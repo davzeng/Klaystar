@@ -1,0 +1,13 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Some words are written on this sign.",
+      "mode": 0,
+      "icon":  "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Welcome to Kardia,~ the first city of the pillar.",
+      "mode": 3
+    }
+  }
+}

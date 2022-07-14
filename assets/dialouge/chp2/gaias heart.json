@@ -1,0 +1,21 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Some words are carved into this stone.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Known as Gaia's Heart, this plant is the only one of it's kind.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "Indestructable,~ Immune to aging,~ emitting constant heat~ and preventing the land around from shifting.~\nIts super natural powers are numerous,~ even for a phenomenon of the pillar.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "Its shape and powers lead many to believe that this plant is some sort of heart, providing power to the pillar.~\nFor a period of time, many even thought that this spot was the center of pillar.",
+      "mode": 3
+    }
+  }
+}

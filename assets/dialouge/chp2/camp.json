@@ -1,0 +1,40 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "It's a scavanger camp",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "They've been a little bit more active around here recently.~\nThey make a living by-",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    },
+    "2": {
+      "dialouge": "I know.~\nMagnis told me about them before.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "3": {
+      "dialouge": "He even said I'll end up like them if I fail the selection.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_smile.png"
+    },
+    "4": {
+      "dialouge": "He's just trying to scare you.~\nThere are plenty of other roles you can take even if you don't become Vanguard,~ which you will.",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_frown.png"
+    },
+    "5": {
+      "dialouge": "Anyways,~ we shouldn't stay here for too long.~ The resident of the camp might come back.",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    }
+  }
+}

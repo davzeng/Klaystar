@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Sirrington's Bag!~\nIt's shoved full of books and pampletts about lizard men.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 2
+    }
+  }
+}

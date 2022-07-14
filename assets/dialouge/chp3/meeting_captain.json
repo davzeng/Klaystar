@@ -1,0 +1,89 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Why hello there young boys, you guys are the students from Atheir Peak aren't you?",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "1": {
+      "dialouge": "I was wondering when one of you were planning to show up.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "2": {
+      "dialouge": "There are supposed to be a few other students here.~\nYou two wouldn't know where any of them are would you.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "3": {
+      "dialouge": "Nope...~ Sorry.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "4": {
+      "dialouge": "Ah...~ That's a shame.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "5": {
+      "dialouge": "What are yer names?",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "6": {
+      "dialouge": "Klay...",
+      "mode": 0,
+      "icon": "klay_shy.png"
+    },
+    "7": {
+      "dialouge": "Ahh!~You're named after the earth I see.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "8": {
+      "dialouge": "Then you must come from the Everfrost Caverns!",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "9": {
+      "dialouge": "And how about you,~ the one in the glasses.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "10": {
+      "dialouge": "Malo Sir",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "11": {
+      "dialouge": "Malo...~\nSo you're named after the stars.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "12": {
+      "dialouge": "I that case~ you came from around here.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "13": {
+      "dialouge": "My grandfather did Sir.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "14": {
+      "dialouge": "Klay and Malo~ it's pleasure to meet the both of you.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "15": {
+      "dialouge": "I bet you two two must be beat!~\nSo I'll stop yapping away and lead you to our dorms.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "16": {
+      "dialouge": "Follow me!",
+      "mode": 1,
+      "icon": "captain.png"
+    }
+  }
+}

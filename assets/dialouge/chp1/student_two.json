@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Why didn't you pair up with me for the selection.~ You would have-",
+      "mode": 0,
+      "speaker": "Student",
+      "icon": "student_two.png",
+      "voice": 1
+    },
+    "1": {
+      "dialouge": "Hey!~\nWe're having a private conversation here.",
+      "mode": 0,
+      "speaker": "Student",
+      "icon": "student_two.png",
+      "voice": 1
+    }
+  }
+}

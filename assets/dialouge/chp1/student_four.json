@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Do you know where Sirrington is?~ He's supposed to be giving us a lecture right now.",
+      "mode": 4,
+      "speaker":  "Student",
+      "icon": "student_four.png",
+      "voice": 1
+    }
+  }
+}

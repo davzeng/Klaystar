@@ -1,0 +1,25 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Sigh...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "It's still light outside right now...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "Get some rest my ass.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_frown.png",
+      "voice": 0
+    }
+  }
+}

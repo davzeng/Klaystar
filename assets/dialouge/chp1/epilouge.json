@@ -1,0 +1,264 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Hurry up mom!~\nWe're nearly out of the cave.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "smol_klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Be careful Klay!~ The frost bloom season hasn't ended yet.~\nYou wouldn't want to run into a flare would you?",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "2": {
+      "dialouge": "It's alright mom!~\nI've been around here before.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "smol_klay_neutral.png",
+      "voice": 0
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "Ow!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_scratched.png",
+      "voice": 0
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "What did I tell you Klay? ",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "Sigh...~ Hold still.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    }
+  },
+  "3": {
+    "0": {
+      "dialouge": "Be more careful next time okay.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "Oh don't worry mom, it's just a scratch.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "It's just a scrath this time Klay.~ You could've gotten really hurt.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "3": {
+      "dialouge": "Alright...~ alright...~ I'll be more be careful.~\nHappy now?",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    }
+  },
+  "4": {
+    "0": {
+      "dialouge": "Look mom!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Here it is!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "2": {
+      "dialouge": "You can see so far.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "I found this spot all on my own!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "4": {
+      "dialouge": "It's wonderful Klay!",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "5": {
+      "dialouge": "...~\nHey mom?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "6": {
+      "dialouge": "What are those bumps over there.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "7": {
+      "dialouge": "Oh!~\nThose are mountains Klay.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "8": {
+      "dialouge": "Mountains...~Is that what we are on.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "9": {
+      "dialouge": "Not quite.~\nWe are on the Pillar Klay.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "10": {
+      "dialouge": "Oh...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "11": {
+      "dialouge": "So can I go to those mountains someday?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "12": {
+      "dialouge": "...~ I think that may be difficult.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "13": {
+      "dialouge": "We haven't even explored the entire Pillar yet after all.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "14": {
+      "dialouge": "Then I'll just explore the entire Pillar first!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "15": {
+      "dialouge": "Heh...~ You'll have to become a Vanguard to do that..",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "16": {
+      "dialouge": "A Vanguard?~ Is that what you and dad where?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "17": {
+      "dialouge": "Yes.~ And he was one of the best as well.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "18": {
+      "dialouge": "That's awesome...",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "19": {
+      "dialouge": "...~\nSo aside from exploration, what does the Vanguard actually do?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "20": {
+      "dialouge": "They do a lot of things Klay.~\nBut if I had to boil it down~ I'd say that they venture onto unknown parts of the Pillar and rescue those who may be trapped by the Pillar's shifting.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "21": {
+      "dialouge": "They are the first responders to disaster~ and the ones we send to the unknown.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "22": {
+      "dialouge": "Awesome!~ Now I really want to be a member of the Vanguard.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "23": {
+      "dialouge": "Heh...~ You didn't even know what they did a minute ago.",
+      "mode": 0,
+      "speaker": "Mom",
+      "icon": "parent.png",
+      "voice": 2
+    },
+    "24": {
+      "dialouge": "But I do now!",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    },
+    "25": {
+      "dialouge": "I'll join the Vanguard someday.~ I know it.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "smol_klay_band_aid.png",
+      "voice": 0
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "Some words are written on this sign.",
+      "mode": 0,
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+
+    "1": {
+      "dialouge": "Warning!~ High Shift Zone Ahead!",
+      "mode": 3,
+      "voice": 0
+    }
+  }
+}

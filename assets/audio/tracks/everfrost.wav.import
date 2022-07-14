@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/everfrost.wav-3e1e10d4e6cba02f4d8d90582c7836f1.sample"
+
+[deps]
+
+source_file="res://assets/audio/tracks/everfrost.wav"
+dest_files=[ "res://.import/everfrost.wav-3e1e10d4e6cba02f4d8d90582c7836f1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

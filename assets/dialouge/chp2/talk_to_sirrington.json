@@ -1,0 +1,36 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Oh how dreadful!~ The selection is upon us.~\nAll you kids must be nervous to say the least.",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png"
+    },
+    "1": {
+      "dialouge": "I can sympathize however,~ for I'm facing a crisis of my own.",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png"
+    },
+    "2": {
+      "dialouge": "The Globe Earth council has recently denounced my theory regarding the existence of lizard men.~\nI could hardly believe it!",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png"
+    },
+    "3": {
+      "dialouge": "Who could have imagined that such open minded minds would allow themselves to be blinded?",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png"
+    }
+  },
+  "loop": {
+    "0": {
+      "dialouge": "Who could have imagined that such open minded minds would allow themselves to be blinded?",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png"
+    }
+  }
+}

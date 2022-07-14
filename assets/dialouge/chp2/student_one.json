@@ -1,0 +1,18 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Oh hi there Klay.~ Malo was looking for you earlier.",
+      "mode": 4,
+      "speaker": "Student",
+      "icon": "student_one.png"
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "You should probably go find him and see what he wants.",
+      "mode": 4,
+      "speaker": "Student",
+      "icon": "student_one.png"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "There you are you young whippersnapper!~\nI was wondering when you would decide to show up.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "This won't do Klay!~\nWe are two days from the selection!",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "2": {
+      "dialouge": "...~Sorry.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "klay_sad.png",
+      "voice": 0
+    },
+    "3": {
+      "dialouge": "Sorry won't cut it kid.~ You've always wanted to be a Vanguard didn't you?",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "4": {
+      "dialouge": "Well a Vanguard must be brave and capable.~\nAnd above all...~ a Vanguard must be disciplined.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "5": {
+      "dialouge": "The coming selection is your chance to show that you have those traits and join the ranks of the Vanguard.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "6": {
+      "dialouge": "Your performance in the coming week would not only dictate your future but your partners as well.~\nYou wouldn't want to drag Malo down now would you?.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "7": {
+      "dialouge": "No Sir.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "klay_sad.png",
+      "voice": 0
+    },
+    "8": {
+      "dialouge": "Then be back on campus before five from now on.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    },
+    "9": {
+      "dialouge": "Sigh...~ Your schedule for the selection will be out tomorrow night.~\nUntil then, you should get some rest.",
+      "mode": 0,
+      "speaker": "Sir Magnis",
+      "icon": "magnis.png",
+      "voice": 2
+    }
+  }
+}

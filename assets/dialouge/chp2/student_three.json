@@ -1,0 +1,10 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "..........~\nHm?",
+      "mode": 1,
+      "speaker":  "Student",
+      "icon": "student_three.png"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Hey Klay!~ Where are we going?",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "I was just thinking that we can try to find a few extra shards.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "Well that's good and all but...~ I think all the shards ahead might have been collected already.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "3": {
+      "dialouge": "Sure but there's no harm in trying right?",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "4": {
+      "dialouge": "Sigh...~ Alright.~\nJust don't get carried away.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    }
+  }
+}

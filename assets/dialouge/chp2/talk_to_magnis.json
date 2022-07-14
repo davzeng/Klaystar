@@ -1,0 +1,18 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Look alive Klay!~ The selection is nearly upon us!~\nYou should enjoy yourself while you can!.",
+      "mode": 4,
+      "speaker":  "Magnis",
+      "icon": "magnis.png"
+    }
+  },
+  "loop": {
+    "0": {
+      "dialouge": "You should enjoy yourself while you can!",
+      "mode": 4,
+      "speaker": "Magnis",
+      "icon": "magnis.png"
+    }
+  }
+}

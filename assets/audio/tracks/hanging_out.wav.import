@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hanging_out.wav-63c37b3dcd7105a4bfade7af54aaef2f.sample"
+
+[deps]
+
+source_file="res://assets/audio/tracks/hanging_out.wav"
+dest_files=[ "res://.import/hanging_out.wav-63c37b3dcd7105a4bfade7af54aaef2f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0

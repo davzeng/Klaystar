@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a scented candle",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "Malo always has one in his room.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    }
+  }
+}

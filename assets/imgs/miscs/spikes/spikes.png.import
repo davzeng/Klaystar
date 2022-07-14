@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/spikes.png-176547b4ac016ff8e5988a1fa00948be.image"
+
+[deps]
+
+source_file="res://assets/imgs/miscs/spikes/spikes.png"
+dest_files=[ "res://.import/spikes.png-176547b4ac016ff8e5988a1fa00948be.image" ]
+
+[params]
+

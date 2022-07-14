@@ -1,0 +1,86 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "It appears to be a pamphlet someone posted here.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "It pains me greatly to say this but I-Sir Sirrington am leaving the Globe Earth Society.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "I have urged my brothers in the Globe Earth Society many a times to see existence of lizard men.~\nAnd I have unfortunately been ignored many a times.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "As such I will be leaving.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "I bid my brothers in the Globe Earth Society a fine farewell.",
+      "mode": 3
+    },
+    "5": {
+      "dialouge": "-Sir Sirrington.",
+      "mode": 3
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "It appears to be an old page from a journal.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Attempts to harvest the power of jetstreams of the areas have so far proven to be ineffective.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "This is largely because jetstreams appear and disapear seemingly at random, even when cables are used to prevent shifting.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "It is theorized that this is an effect of underground shifting.~\nFurther research into the nature of jetstreams are recommended.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "-Tomoky, First Vangaurd of the Gaia Division",
+      "mode": 3
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "It appears to be an old page from a journal.~ It's very worn out.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Dnaletsaw Elap Eht Ni Peed Era Ew",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "Thgis Ni Efil On Llits Si Ereht",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "Llits Rehgih Og Tsum Ew",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "Any idea what this is?",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "5": {
+      "dialouge": "Nope.",
+      "mode": 0,
+      "speaker": "Malo",
+      "icon": "malo_neutral.png"
+    }
+  }
+}

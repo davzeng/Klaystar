@@ -1,0 +1,11 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "You should watch out Klay.~ Magnis has been especially high strung today.",
+      "mode": 4,
+      "speaker": "Student",
+      "icon": "student_one.png",
+      "voice": 1
+    }
+  }
+}

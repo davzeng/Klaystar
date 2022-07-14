@@ -1,0 +1,44 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Klay...",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "...",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "Klay!",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "3": {
+      "dialouge": "What!",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "4": {
+      "dialouge": "You feeling like turning back now.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "5": {
+      "dialouge": "Turn back! We only got one.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "6": {
+      "dialouge": "And I doubt we are going to find anymore.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "7": {
+      "dialouge": "Alright...~ Lets go back.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  }
+}

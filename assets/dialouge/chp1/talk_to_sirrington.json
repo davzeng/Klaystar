@@ -1,0 +1,20 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "You must be wary Klay!~ The lizard men dwell in many places.",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    }
+  },
+  "loop": {
+    "0": {
+      "dialouge": "Contact me if you see any lizard men!",
+      "mode": 4,
+      "speaker": "Sirrington",
+      "icon": "sirrington.png",
+      "voice": 2
+    }
+  }
+}

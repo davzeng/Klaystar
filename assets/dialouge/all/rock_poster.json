@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's a poster for a rockband named Eldritch White.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+    "1": {
+      "dialouge": "I wish they would come up with a better name.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    }
+  }
+}

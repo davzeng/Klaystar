@@ -1,0 +1,126 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Yoo!~ You Two!~\nYou guys are from Athier Peek right? I never thought I'd get me meet the bigshots.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "1": {
+      "dialouge": "I hope your shard collecting has been going.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "2": {
+      "dialouge": "Because I have a little...~ proposal.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "3": {
+      "dialouge": "I've got a lil proposal for you.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "4": {
+      "dialouge": "Sorry we're kinda in a hurry.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "5": {
+      "dialouge": "I'll make it quick.~ Your time is oh so valuable after all.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "6": {
+      "dialouge": "You see... We've all got a quota of shards to collect.~\nBut some of us are a little short on luck.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "7": {
+      "dialouge": "Sooo... I was thinking that it would be great if we worked out something that would help all of us..",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "8": {
+      "dialouge": "How about you guys just turn back and let me handle this area.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "9": {
+      "dialouge": "I'll look for shards around here, you guys keep looking there.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "10": {
+      "dialouge": "Yeah about that...~\nI don't think there are that many shards left there.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "11": {
+      "dialouge": "Have you tried looking a little past the lodgings.~\nThere might be a few more there.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "12": {
+      "dialouge": "No.. But that's a little far from here isn't it.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "13": {
+      "dialouge": "I know I know...~ I'd would really be a huge favor for everyone. Vanguards are supposed to work together after all aren't they?",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "14": {
+      "dialouge": "No... I don't think-",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "15": {
+      "dialouge": "Come on man!~ Take one for the team will you?",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "16": {
+      "dialouge": "He's kinda got a point Klay.~\n The team would certainly-",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "17": {
+      "dialouge": "But we aren't a team Malo!",
+      "mode": 0,
+      "icon": "klay_frown.png"
+    },
+    "18": {
+      "dialouge": "How would splitting up help us?",
+      "mode": 0,
+      "icon": "klay_frown.png"
+    },
+    "19": {
+      "dialouge": "So that's how it is.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "20": {
+      "dialouge": "Well...~ It's not like I expect big shots like you two to understand anyways.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "21": {
+      "dialouge": "Well...~ It's not like I expect big shots like you two to understand anyways.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    },
+    "22": {
+      "dialouge": "You two may cutout for the selection... but you two aren't cutout to vanguards.",
+      "mode": 1,
+      "icon": "balloon_student.png"
+    }
+  },
+  "1": {
+    "1": {
+      "dialouge": "...~ Go fuck your self.",
+      "mode": 0,
+      "icon": "klay_frown.png"
+    }
+  }
+}

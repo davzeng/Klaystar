@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/cutscene/auto_cutscene_trigger.gd" type="Script" id=1]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 32, 32 )
+
+[node name="AutoCutsceneTrigger" type="Area2D" groups=[
+"Savable",
+]]
+script = ExtResource( 1 )
+
+[node name="Rect" type="CollisionShape2D" parent="."]
+position = Vector2( 32, 32 )
+shape = SubResource( 1 )

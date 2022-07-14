@@ -1,0 +1,132 @@
+[gd_scene load_steps=17 format=2]
+
+[ext_resource path="res://scenes/hud/pause_screen.gd" type="Script" id=1]
+[ext_resource path="res://assets/imgs/hud/pointer.png" type="Texture" id=2]
+[ext_resource path="res://assets/imgs/hud/skip_cutscene_on.png" type="Texture" id=3]
+[ext_resource path="res://assets/imgs/hud/continue_on.png" type="Texture" id=4]
+[ext_resource path="res://assets/imgs/hud/continue_off.png" type="Texture" id=5]
+[ext_resource path="res://assets/imgs/hud/save_and_quit_on.png" type="Texture" id=6]
+[ext_resource path="res://assets/imgs/hud/chapter_select_on.png" type="Texture" id=7]
+[ext_resource path="res://assets/imgs/hud/chapter_select_off.png" type="Texture" id=8]
+[ext_resource path="res://assets/imgs/hud/save_and_quit_off.png" type="Texture" id=9]
+[ext_resource path="res://assets/imgs/hud/skip_cutscene_off.png" type="Texture" id=10]
+[ext_resource path="res://assets/audio/sfx/click.wav" type="AudioStream" id=11]
+[ext_resource path="res://assets/audio/sfx/switch.wav" type="AudioStream" id=12]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 3 ) ],
+"loop": true,
+"name": "on",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 10 ) ],
+"loop": true,
+"name": "off",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 10 ), ExtResource( 3 ) ],
+"loop": true,
+"name": "click",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=2]
+animations = [ {
+"frames": [ ExtResource( 4 ) ],
+"loop": true,
+"name": "on",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 5 ) ],
+"loop": true,
+"name": "off",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 5 ), ExtResource( 4 ) ],
+"loop": true,
+"name": "click",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=3]
+animations = [ {
+"frames": [ ExtResource( 6 ) ],
+"loop": true,
+"name": "on",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 9 ) ],
+"loop": true,
+"name": "off",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 9 ), ExtResource( 6 ) ],
+"loop": true,
+"name": "click",
+"speed": 5.0
+} ]
+
+[sub_resource type="SpriteFrames" id=4]
+animations = [ {
+"frames": [ ExtResource( 7 ) ],
+"loop": true,
+"name": "on",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 8 ) ],
+"loop": true,
+"name": "off",
+"speed": 5.0
+}, {
+"frames": [ ExtResource( 8 ), ExtResource( 7 ) ],
+"loop": true,
+"name": "click",
+"speed": 5.0
+} ]
+
+[node name="PauseScreen" type="Control"]
+pause_mode = 2
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Pointer" type="Sprite" parent="."]
+position = Vector2( 768, 256 )
+texture = ExtResource( 2 )
+
+[node name="SkipCutscene" type="AnimatedSprite" parent="."]
+position = Vector2( 960, 256 )
+frames = SubResource( 1 )
+animation = "click"
+
+[node name="Continue" type="AnimatedSprite" parent="."]
+position = Vector2( 960, 320 )
+frames = SubResource( 2 )
+animation = "click"
+
+[node name="SaveAndQuit" type="AnimatedSprite" parent="."]
+position = Vector2( 960, 384 )
+frames = SubResource( 3 )
+animation = "click"
+
+[node name="ChapterSelect" type="AnimatedSprite" parent="."]
+position = Vector2( 960, 448 )
+frames = SubResource( 4 )
+animation = "click"
+
+[node name="Switch" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 12 )
+
+[node name="Click" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 11 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.4
+one_shot = true
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]

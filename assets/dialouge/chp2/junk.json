@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "There is a diary here.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "There's nothing here.~ No gold.~ No phenomena worth nabbing.~\nBucky suggested we search lower but we can't risk trespassing in The Athier Caves.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "Now that Sky Land has closed its doors to Scavengers we have no choice but try the Crystal Jungles.",
+      "mode": 3
+    }
+  }
+}

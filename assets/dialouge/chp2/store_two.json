@@ -1,0 +1,36 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Why hello there!~\nWelcome to the Cold Fountain.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_two.png"
+    },
+    "1": {
+      "dialouge": "Can I get you a drink?",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_two.png"
+    },
+    "2": {
+      "dialouge": "I don't have money on me right now.~ Sorry.",
+      "mode": 1,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png"
+    },
+    "3": {
+      "dialouge": "Well that's a shame.~ Feel free to drop by the next time you want a drink.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_two.png"
+    }
+  },
+  "loop": {
+    "0": {
+      "dialouge": "Feel free to drop by the next time you want a drink.",
+      "mode": 0,
+      "speaker": "Shopkeep",
+      "icon": "owner_two.png"
+    }
+  }
+}

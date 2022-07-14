@@ -1,0 +1,200 @@
+{
+  "1-chp6": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Like a pristine marble, the world I saw was once round.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "On this world I saw, the solid Earth,~\nroamed life that rose and fell with time.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "All was shaped by the old architect,~\nwho dwelled on land and rested in the ocean.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "He passed his days recording the seasons and the stars in the sky.",
+      "mode": 3
+    },
+    "5": {
+      "dialouge": "....~\nWhat the fuck is an ocean?",
+      "mode": 0,
+    }
+  },
+  "2-chp5": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "Men and beast dwelled on Earth but not in sky,~\nsustained by seasons that cycled round.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "He continued to watch from the land and ocean,~\nhappily recording every change in the shifting Earth.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "But a season of sorrow soon decended on architect-~\na season which didn't go leave with a time.",
+      "mode": 3
+    },
+    "5": {
+      "dialouge": "....~\nHow weird.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "3-chp7": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "The stars that changed infinitely, unbound by time,~\nwas testiment to the greatness of the infinite sky.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "My father, the old architect,~\nwoed that he cannot decern how sky spun round;",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "He woed that the sky was not finite like earth;",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "That he can only dwell in the land and ocean.",
+      "mode": 3
+    },
+    "6": {
+      "dialouge": "Hey Malo!~ You have any idea what this is?",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "8": {
+      "dialouge": "No clue Klay!",
+      "mode": 1,
+      "icon": "malo_neutral.png"
+    }
+  },
+  "4-chp1": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "His grief built in the land and ocean;~\nHe too wished for a world patternless across time.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "To longer satisfied by the cycles of Earth,~\nhe rose reached out for the sky.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "As the clock's face continued to spin round~\nfatigue began to grip the architect.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "....",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "5-chp2": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "The endless sky continued to taunt the old architect,~\nas he futily attempted to reshape land and ocean.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "The clock's face still spun round and round~\nand father slowly resigned over time.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "So he, who no longer wished to rival the sky,\nthought to hide his rival from Earth.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "....",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "6-chp3": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "He set out to reshape Earth,~\n so no one would know of the sky but the architect.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "From dirt he molded a false sky.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "He flatten the land and drained the oceans.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "And so the true sky was lost to time.~\nThe world was no longer round.",
+      "mode": 3
+    },
+    "5": {
+      "dialouge": "....",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "7-chp4": {
+    "0": {
+      "dialouge": "It appears to be an old page from a book-~ it's very worn out.",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    },
+    "1": {
+      "dialouge": "The original ocean and land are lost to time.",
+      "mode": 3
+    },
+    "2": {
+      "dialouge": "The Earth will never again be a part of the sky.",
+      "mode": 3
+    },
+    "3": {
+      "dialouge": "So as I walk around the new world, I write these lines in rebellion of the old architect.",
+      "mode": 3
+    },
+    "4": {
+      "dialouge": "....",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "idea1": {
+    "0": {
+      "dialouge": "cheff used to be vanguard. (quit after incident)",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "idea2": {
+    "0": {
+      "dialouge": "cloud poem. (quit after incident)",
+      "mode": 0,
+      "icon": "klay_neutral.png"
+    }
+  }
+}

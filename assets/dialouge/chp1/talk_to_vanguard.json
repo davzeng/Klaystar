@@ -1,0 +1,18 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "You should get out of here.",
+      "mode": 4,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    },
+    "1": {
+      "dialouge": "My captain is going to get pretty mad if I let you hang around.",
+      "mode": 4,
+      "speaker": "Vanguard",
+      "icon": "vanguard_two.png",
+      "voice": 2
+    }
+  }
+}

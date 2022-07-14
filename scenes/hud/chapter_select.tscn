@@ -1,0 +1,57 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://scenes/hud/chapter_select.gd" type="Script" id=1]
+[ext_resource path="res://scenes/hud/scene_button.tscn" type="PackedScene" id=2]
+
+[node name="ChapterSelect" type="Container"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 192.0
+margin_top = 128.0
+margin_right = -192.0
+margin_bottom = -104.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true,
+"_edit_use_anchors_": false
+}
+
+[node name="Button1" parent="." instance=ExtResource( 2 )]
+text = "chapter_one"
+scene = "res://scenes/chapters/chapter_one.tscn"
+number = 1
+
+[node name="Button2" parent="." instance=ExtResource( 2 )]
+text = "chapter_two"
+scene = "res://scenes/chapters/chapter_two.tscn"
+number = 2
+
+[node name="Button3" parent="." instance=ExtResource( 2 )]
+text = "chapter_three"
+scene = "res://scenes/chapters/chapter_three.tscn"
+number = 3
+
+[node name="Button4" parent="." instance=ExtResource( 2 )]
+text = "chapter_four"
+scene = "res://scenes/chapters/chapter_four.tscn"
+number = 4
+
+[node name="Button5" parent="." instance=ExtResource( 2 )]
+text = "chapter_five"
+scene = "res://scenes/chapters/chapter_five.tscn"
+number = 5
+
+[node name="Button6" parent="." instance=ExtResource( 2 )]
+text = "chapter_six"
+scene = "res://scenes/chapters/chapter_six.tscn"
+number = 6
+
+[node name="Button7" parent="." instance=ExtResource( 2 )]
+text = "chapter_seven"
+scene = "res://scenes/chapters/chapter_seven.tscn"
+number = 7
+
+[node name="Button8" parent="." instance=ExtResource( 2 )]
+text = "chapter_eight"
+scene = "res://scenes/chapters/chapter_eight.tscn"
+number = 8

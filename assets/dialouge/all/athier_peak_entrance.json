@@ -1,0 +1,17 @@
+{
+  "loop": {
+    "0": {
+      "dialouge": "It's the school's entrance sign.",
+      "mode": 0,
+      "speaker": "Klay",
+      "icon": "klay_neutral.png",
+      "voice": 0
+    },
+
+    "1": {
+      "dialouge": "Welcome to Athier Peak!~\nWhere we have been nurturing the most Vanguards since 202 E.C.",
+      "mode": 3,
+      "voice": 0
+    }
+  }
+}

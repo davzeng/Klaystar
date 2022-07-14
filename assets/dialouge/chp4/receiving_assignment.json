@@ -1,0 +1,69 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "You're right on time young lads!",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "1": {
+      "dialouge": "You better be ready, I'm about to work all of you to the bone.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "2": {
+      "dialouge": "Unfortunately,~ Before we begin, I'm legally obligated to read aloud these instructions before we begin.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "3": {
+      "dialouge": "Dear students, welcome to SkyLine Inc, where we are dedicated to empowering the world in a safe and friendly way.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "4": {
+      "dialouge": "Here at SkyLine Inc, we hire Navigators to collect pieces of the sky (also known as shards) which are used to provide power all across the pillar.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "5": {
+      "dialouge": "We are pround to provide power to two dozen corporations and private entities and are currently expanding out horizons.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "6": {
+      "dialouge": "Today students, we welcome you to step up and experience this life for your self.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "7": {
+      "dialouge": "Please note that students are under no circumstances allowed to:~ 1. keep any shard for oneself~ 2. wander of these premises~ and 3. collect shards from undesignated areas.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "8": {
+      "dialouge": "Violation of any of these rules may result in immediate termination of the selection for the student and thier partner.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "9": {
+      "dialouge": "Why don't you two try to collect, say... five shards today.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "10": {
+      "dialouge": "Of course you two can always collect more. I'm sure the examiners would like that!",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "11": {
+      "dialouge": "Now, unless you have any questions, you better be on your way.",
+      "mode": 1,
+      "icon": "captain.png"
+    },
+    "12": {
+      "dialouge": "Show us what you can do!",
+      "mode": 1,
+      "icon": "captain.png"
+    }
+  }
+}

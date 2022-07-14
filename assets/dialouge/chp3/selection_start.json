@@ -1,0 +1,88 @@
+{
+  "0": {
+    "0": {
+      "dialouge": "Well...~ You're up early.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "1": {
+      "dialouge": "So are you.",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    },
+    "2": {
+      "dialouge": "Can't sleep.",
+      "mode": 0,
+      "icon": "malo_neutral.png"
+    },
+    "3": {
+      "dialouge": "Yeah,~ me neither.",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    },
+    "4": {
+      "dialouge": "Anyways,~ we should be getting ready.",
+      "mode": 1,
+      "icon": "klay_neutral.png"
+    }
+  },
+  "1": {
+    "0": {
+      "dialouge": "Alright kids!",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "1": {
+      "dialouge": "Listen up!",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "2": {
+      "dialouge": "This day you've all been training for!~\nWhat all your training has been leading up to.",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "5": {
+      "dialouge": "Remember the bravery of those who came before!",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "6": {
+      "dialouge": "Beyondar,~ Nero,~ Hiro!",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "7": {
+      "dialouge": "CHANNEL THEIR STRENGTH MY KIDS!~ CHANNEL THEIR-",
+      "mode": 1,
+      "icon": "magnis.png"
+    },
+    "8": {
+      "dialouge": "Alright alright,~ that's enough Magnis.",
+      "mode": 1,
+      "icon": "sirrington.png"
+    },
+    "9": {
+      "dialouge": "Just remember your training and you'll do great. Now get going Kids!",
+      "mode": 1,
+      "icon": "sirrington.png"
+    },
+    "10": {
+      "dialouge": "Now get going kids!",
+      "mode": 1,
+      "icon": "sirrington.png"
+    }
+  },
+  "2": {
+    "0": {
+      "dialouge": "Is something wrong?",
+      "mode": 0,
+      "icon": "malo_frown.png"
+    },
+    "1": {
+      "dialouge": "No...~ I just needed a moment.",
+      "mode": 0,
+      "icon": "klay_frown.png"
+    }
+  }
+}
